@@ -52,6 +52,13 @@ It supports **role-based access control**, task assignment, filtering, and admin
 - **bcrypt**
 - **dotenv**
 - **nodemon**
+  
+---
 
-
+## env variables used:-
+PORT=5000
+# MONGO_URI=mongodb+srv://root:12345@cluster0.pc2qsd0.mongodb.net/
+MONGO_URI = mongodb://localhost:27017/test
+JWT_ACCESS_SECRET=access_secret_key
+JWT_REFRESH_SECRET=refresh_secret_key
 
