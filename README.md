@@ -53,7 +53,5 @@ It supports **role-based access control**, task assignment, filtering, and admin
 - **dotenv**
 - **nodemon**
 
----
 
-## 📁 Project Structure
 
