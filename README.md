@@ -5,6 +5,16 @@ It supports **role-based access control**, task assignment, filtering, and admin
 
 ---
 
+## For Starting the server📱
+go to the root directory and run the command **npx nodemon server.js** in the terminal.
+
+---
+
+## Results 🖥️
+for seeing the results you can use postman or thunderclient you can either use local-host or mongodb atlas credentials are provided.
+
+---
+
 ## 📌 Features
 
 ### 🔐 Authentication & Authorization
