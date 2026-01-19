@@ -5,6 +5,16 @@ It supports **role-based access control**, task assignment, filtering, and admin
 
 ---
 
+## For Starting the server📱
+go to the root directory and run the command **npx nodemon server.js** in the terminal.
+
+---
+
+## Results 🖥️
+for seeing the results you can use postman or thunderclient you can either use local-host or mongodb atlas credentials are provided.
+
+---
+
 ## 📌 Features
 
 ### 🔐 Authentication & Authorization
@@ -52,8 +62,13 @@ It supports **role-based access control**, task assignment, filtering, and admin
 - **bcrypt**
 - **dotenv**
 - **nodemon**
-
+  
 ---
 
-## 📁 Project Structure
+## env variables used:-
+- PORT=5000
+- MONGO_URI=mongodb+srv://root:12345@cluster0.pc2qsd0.mongodb.net/
+- MONGO_URI = mongodb://localhost:27017/test
+- JWT_ACCESS_SECRET=access_secret_key
+- JWT_REFRESH_SECRET=refresh_secret_key
 
